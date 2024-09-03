@@ -1,7 +1,27 @@
 [
   {
-    "file": "experiments/example.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+    "file": "experiments/ink.js",
+    "name": "Ink drops",
+    "description": "Circles have random allocation and radiuses on canvas, appearing with oscillation effect. The code is inspired by Vera Molnér works and art of Yayoi Kusama.",
+    "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
+  },
+
+  {
+    "file": "experiments/circlesMove.js",
+    "name": "Dots Hallucinations Part 1",
+    "description": "The variation of ink drops. Animation of circles moving and changing size on canvas based on speed and variation.",
+    "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
+  },
+  {
+    "file": "experiments/circlesMoveBlue.js",
+    "name": "Dots Hallucinations Part 2",
+    "description": "The variation of ink drops. The animation of circles moving and changing size on a canvas, and additional mini dots deriving from each circle.",
+    "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
+  },
+  {
+    "file": "experiments/particles.js",
+    "name": "Dots Particles",
+    "description": "In this code the system of particles, which have random radius, velocity, hue and lifespan frames, moving around the canvas. Particles and velocity frames are intended to provide a calm atmosphere.",
+    "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
   }
 ]
