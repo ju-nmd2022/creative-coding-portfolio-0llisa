@@ -23,5 +23,11 @@
     "name": "Dots Particles",
     "description": "In this code the system of particles, which have random radius, velocity, hue and lifespan frames, moving around the canvas. Particles and velocity frames are intended to provide a calm atmosphere.",
     "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
+  },
+  {
+    "file": "experiments/circlesDivide.js",
+    "name": "Moon Pattern",
+    "description": "The moon is inspired by Marine Serre's futuristic and avant-garde style'. An array of circles and moons, with a function that resets the timer and recreates circles and moons. In addition, randomly colored dots moving all over the canvas.",
+    "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
   }
 ]
