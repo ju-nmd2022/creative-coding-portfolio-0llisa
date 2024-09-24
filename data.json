@@ -29,5 +29,59 @@
     "name": "Moon Pattern",
     "description": "The moon is inspired by Marine Serre's futuristic and avant-garde style'. An array of circles and moons, with a function that resets the timer and recreates circles and moons. In addition, randomly colored dots moving all over the canvas.",
     "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
+  },{
+    "file": "experiments/moonPerlin.js",
+    "name": "Moon Arcs",
+    "description": "The moon is inspired by Marine Serre's futuristic and avant-garde style'. Perlin noise is used to show randomness in the position of moon shapes. Small, white ellipses are drawn to give a sense of sparkle.",
+    "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
+  }
+  ,
+  {
+    "file": "experiments/linesVector.js",
+    "name": "Japanese Vase",
+    "description": "The code is inspired by japanese ceramics aesthetic. A pattern of radial lines which derive from the center point of canvas, with a color gradient that changes based on the angle of line.",
+    "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
+  },
+  {
+    "file": "experiments/complexLinesVector.js",
+    "name": "Eastern Shell",
+    "description": "The interactive spiral pattern resembles tiny shell, that responds to mouse hovering. Perlin noise adds randomness to the lines positions and color changes based on the angle of line",
+    "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
+  },
+  {
+    "file": "experiments/flowingCircles.js",
+    "name": "Universe System Part 1",
+    "description": "A pattern of animated circles with color and size variation that flowing in the canvas based on Perlin noise aesthetics.",
+    "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
+  },
+  {
+    "file": "experiments/chanceTriangle.js",
+    "name": "Universe System Part 2",
+    "description": "The pattern of circles, trinagles and squares that moves and change sizes and color based on Perlin noise.",
+    "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
+  },
+  {
+    "file": "experiments/clodMone.js",
+    "name": "Moon Pattern",
+    "description": "The moon is inspired by Marine Serre's futuristic and avant-garde style'. An array of circles and moons, with a function that resets the timer and recreates circles and moons. In addition, randomly colored dots moving all over the canvas.",
+    "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
+  },
+  {
+    "file": "experiments/blooming.js",
+    "name": "Moon Pattern",
+    "description": "The moon is inspired by Marine Serre's futuristic and avant-garde style'. An array of circles and moons, with a function that resets the timer and recreates circles and moons. In addition, randomly colored dots moving all over the canvas.",
+    "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
+  },
+  {
+    "file": "experiments/bloomingAlternativeVer.js",
+    "name": "Moon Pattern",
+    "description": "The moon is inspired by Marine Serre's futuristic and avant-garde style'. An array of circles and moons, with a function that resets the timer and recreates circles and moons. In addition, randomly colored dots moving all over the canvas.",
+    "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
+  },
+  {
+    "file": "experiments/sound.js",
+    "name": "Ellipses Sound",
+    "description": "The moon is inspired by Marine Serre's futuristic and avant-garde style'. An array of circles and moons, with a function that resets the timer and recreates circles and moons. In addition, randomly colored dots moving all over the canvas.",
+    "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
   }
 ]
