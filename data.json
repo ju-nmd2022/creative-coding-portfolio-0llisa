@@ -9,19 +9,19 @@
   {
     "file": "experiments/circlesMove.js",
     "name": "Dots Hallucinations Part 1",
-    "description": "The variation of ink drops. Animation of circles moving and changing size on canvas based on speed and variation.",
+    "description": "The variation of ink drops. Animation of circles moving and changing size on canvas based on speed and variation. The color choice is based on Yayoi Kusama's artwork aesthetics.",
     "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
   },
   {
     "file": "experiments/circlesMoveBlue.js",
     "name": "Dots Hallucinations Part 2",
-    "description": "The variation of ink drops. The animation of circles moving and changing size on a canvas, and additional mini dots deriving from each circle.",
+    "description": "The variation of ink drops. The animation of circles moving and changing size on a canvas, and additional mini dots deriving from each circle. The color choice is based on Yayoi Kusama's artwork aesthetics.",
     "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
   },
   {
     "file": "experiments/particles.js",
     "name": "Dots Particles",
-    "description": "In this code the system of particles, which have random radius, velocity, hue and lifespan frames, moving around the canvas. Particles and velocity frames are intended to provide a calm atmosphere.",
+    "description": "In this code the system of particles, which have random radius, velocity, hue and lifespan frames, moving around the canvas. Particles and velocity frames are intended to provide a calm atmosphere. This work references to Yayoi Kusama's artwork aesthetics.",
     "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
   },
   {
@@ -29,7 +29,8 @@
     "name": "Moon Pattern",
     "description": "The moon is inspired by Marine Serre's futuristic and avant-garde style'. An array of circles and moons, with a function that resets the timer and recreates circles and moons. In addition, randomly colored dots moving all over the canvas.",
     "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
-  },{
+  },
+  {
     "file": "experiments/moonPerlin.js",
     "name": "Moon Arcs",
     "description": "The moon is inspired by Marine Serre's futuristic and avant-garde style'. Perlin noise is used to show randomness in the position of moon shapes. Small, white ellipses are drawn to give a sense of sparkle.",
@@ -39,49 +40,49 @@
   {
     "file": "experiments/linesVector.js",
     "name": "Japanese Vase",
-    "description": "The code is inspired by japanese ceramics aesthetic. A pattern of radial lines which derive from the center point of canvas, with a color gradient that changes based on the angle of line.",
+    "description": "The code is inspired by the Japanese ceramics aesthetic. A pattern of radial lines which derive from the center point of canvas, with a color gradient that changes based on the angle of line.",
     "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
   },
   {
     "file": "experiments/complexLinesVector.js",
     "name": "Eastern Shell",
-    "description": "The interactive spiral pattern resembles tiny shell, that responds to mouse hovering. Perlin noise adds randomness to the lines positions and color changes based on the angle of line",
+    "description": "The interactive spiral pattern resembles tiny shell, that responds to mouse hovering. Perlin noise adds randomness to the lines positions and color changes based on the angle of line. The code references Japanese artwork aesthetics.",
     "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
   },
   {
     "file": "experiments/flowingCircles.js",
-    "name": "Universe System Part 1",
-    "description": "A pattern of animated circles with color and size variation that flowing in the canvas based on Perlin noise aesthetics.",
+    "name": "Dynamic Shapes Part 1",
+    "description": "A pattern of animated circles with color and size variation that flowing in the canvas based on Perlin noise aesthetics. The work references to Joshua Davis's digital art, as he used Perlin noise technique to create natural patterns.",
     "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
   },
   {
     "file": "experiments/chanceTriangle.js",
-    "name": "Universe System Part 2",
-    "description": "The pattern of circles, trinagles and squares that moves and change sizes and color based on Perlin noise.",
+    "name": "Dynamic Shapes Part 2",
+    "description": "The composition of circles, trinagles and squares that move and change based on Perlin noise, implementing a vibrant color palette variating from cool blues to yellows. In addition, it creates a trailing effect with a semi-transparent background whish responses to the colors of particles. The work continues referencing Joshua Davis's artwork conceptions.",
     "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
   },
   {
-    "file": "experiments/clodMone.js",
-    "name": "Moon Pattern",
-    "description": "The moon is inspired by Marine Serre's futuristic and avant-garde style'. An array of circles and moons, with a function that resets the timer and recreates circles and moons. In addition, randomly colored dots moving all over the canvas.",
+    "file": " experiments/clodMone.js",
+    "name": "Monet's Digital Impressions",
+    "description": "The code was inspired by Claude Monet's impressionist style. It uses Perlin noise and particles to create colorful canvas in soft pastel shades that spreads outside of canvas frames. The artwork is mimicking the brushstrokes characteristic of impressionist style paintings.",
     "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
   },
   {
     "file": "experiments/blooming.js",
-    "name": "Moon Pattern",
-    "description": "The moon is inspired by Marine Serre's futuristic and avant-garde style'. An array of circles and moons, with a function that resets the timer and recreates circles and moons. In addition, randomly colored dots moving all over the canvas.",
+    "name": "Bloom",
+    "description": "In the following code pink circles, representing sakura flowers, randomly bouncing on the canvas. Blooming was inspired by Irene's Pereyra cherry blossom's tree, the campaign that gathered money for Japanses government after tsunami hit in 2011.",
     "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
   },
   {
     "file": "experiments/bloomingAlternativeVer.js",
-    "name": "Moon Pattern",
-    "description": "The moon is inspired by Marine Serre's futuristic and avant-garde style'. An array of circles and moons, with a function that resets the timer and recreates circles and moons. In addition, randomly colored dots moving all over the canvas.",
+    "name": "Flower Burst: Interactive Mouse",
+    "description": "The following code was an interpretation of Bloom work, and was inspired Irene's Pereyra designed cherry blossom tree. The code represents a steam of small circles that appear and animate within a defined area around the mouse cursor. It aims to cover Complexity lecture, engaging and practising a playful user interaction.",
     "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
   },
   {
     "file": "experiments/sound.js",
-    "name": "Ellipses Sound",
-    "description": "The moon is inspired by Marine Serre's futuristic and avant-garde style'. An array of circles and moons, with a function that resets the timer and recreates circles and moons. In addition, randomly colored dots moving all over the canvas.",
+    "name": "Pulsation: Audio Visualizer",
+    "description": "The code demonstrates the canvas in soft color palette with multiple animated circles and central pulsating circle that triggers audio synthesiswhen clicked. The central circle begin pulsing when hovered over, providing visual reaction for user. To conclude, it was an attempt to recreate one of the works of Seo Hyojung, which can be found in her Instagram as the post named as 240617, and which uses Perlin Noise and nodebox to create a composition, but I simplified it like 100 times to fit my knowledges.",
     "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
   }
 ]
