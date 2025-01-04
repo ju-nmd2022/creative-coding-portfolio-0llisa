@@ -7,16 +7,16 @@ const soundInterval = 5000;
 let growing = true;
 let currentNote = 0;
 
-// Notes for a pleasant melody (pentatonic scale)
-const notes = [262, 294, 330, 392, 440]; // C4, D4, E4, G4, A4
+// C4, D4, E4, G4, A4
+const notes = [262, 294, 330, 392, 440]; 
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
   
-  // Create multiple oscillators for melody
+  // create oscillator for melody
   for (let i = 0; i < notes.length; i++) {
     let osc = new p5.Oscillator('sine');
-    osc.amp(0.2); // Lower amplitude for each oscillator
+    osc.amp(0.2);
     oscillators.push(osc);
   }
   
@@ -107,7 +107,7 @@ function draw() {
 }
 
 function mousePressed() {
-  // Start audio context on first click
+  // You start audio on click
   if (getAudioContext().state !== 'running') {
     getAudioContext().resume();
   }
