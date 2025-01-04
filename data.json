@@ -78,5 +78,11 @@
     "name": "Flower Burst: Interactive Mouse",
     "description": "The following code was an interpretation of Bloom work, and was inspired Irene's Pereyra designed cherry blossom tree. The code represents a steam of small circles that appear and animate within a defined area around the mouse cursor. It aims to cover Complexity lecture, engaging and practising a playful user interaction.",
     "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
-  }
+  }, 
+  {
+    "file": "experiments/celticTone.js",
+    "name": "Interactive Rombs with Musical Melody",
+    "description": "An experimental animation featuring geometric rombs that dance and grow with synchronized sound. The shapes increase and decrease in size while making musical notes from a pentatonic scale. I tried to create a composition similar to seohyo's works, being inspired by modern shapes and color palette.",
+    "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
+  } 
 ]
