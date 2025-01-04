@@ -78,11 +78,5 @@
     "name": "Flower Burst: Interactive Mouse",
     "description": "The following code was an interpretation of Bloom work, and was inspired Irene's Pereyra designed cherry blossom tree. The code represents a steam of small circles that appear and animate within a defined area around the mouse cursor. It aims to cover Complexity lecture, engaging and practising a playful user interaction.",
     "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
-  },
-  {
-    "file": "experiments/sound.js",
-    "name": "Pulsation: Audio Visualizer",
-    "description": "The code demonstrates the canvas in soft color palette with multiple animated circles and central pulsating circle that triggers audio synthesiswhen clicked. The central circle begin pulsing when hovered over, providing visual reaction for user. To conclude, it was an attempt to recreate one of the works of Seo Hyojung, which can be found in her Instagram as the post named as 240617, and which uses Perlin Noise and nodebox to create a composition, but I simplified it like 100 times to fit my knowledges.",
-    "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
   }
 ]
