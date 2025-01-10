@@ -80,13 +80,13 @@
     "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
   }, 
   {
-    "file": "experiments/celticTone.js",
+    "file": "experiments/generativeSound1/celticTone.js",
     "name": "Interactive Rombs with Musical Melody",
     "description": "An experimental animation featuring geometric rombs that dance and grow with synchronized sound. The shapes increase and decrease in size while making musical notes from a pentatonic scale. I tried to create a composition similar to seohyo's works, being inspired by modern shapes and color palette.",
     "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
   },
   {
-    "file": "experiments/dancingSquare.js",
+    "file": "experiments/generativeSound2/dancingSquare.js",
     "name": "Interactive Dancing Romb",
     "description": "In the center of the screen, there's a pink romb that reacts when the mouse circle comes near it. The romb starts shaking faster and changing size when the circle  gets closer. The aesthetics is minimalistic inspired by seohyo's works and covers both interactive and creative/sound aspect of creative coding.",
     "github": "https://www.github.com//ju-nmd2022/creative-coding-portfolio-0llisa.git"
